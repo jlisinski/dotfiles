@@ -5,6 +5,9 @@ call pathogen#helptags()
 syntax on
 filetype plugin indent on
 
+" set dictionary 
+let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dict'
+
 " JL ------------------------------------------------------------
 set expandtab             " Use spaces instead of tabs
 set shiftwidth=2
