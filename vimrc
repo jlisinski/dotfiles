@@ -17,7 +17,7 @@ set ruler
 set showcmd
 set history=50
 set hlsearch              " Switch on search pattern highlighting.
-colors jammy              " Default color scheme 
+" colors jammy              " Default color scheme 
 " ---------------------------------------------------------------
 
 
